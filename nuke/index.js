@@ -42,7 +42,7 @@ module.exports = {
                     type: "GUILD_TEXT"
                 }).then(channel => {
                     //everyone
-                    if(config.everyone) channel.send('@everyone yall got Nuked. RIP BOZO + o7 + L + F + BURN IN HELL + Who is Joe? + Candice + Amogus Sussy Baka + Deez Nuts + Skill Issue + No Bitches')
+                    if(config.everyone) channel.send('@everyone yall got Nuked. RIP BOZO + o7 + L + F + BURN IN HELL + Who is Joe? + Candice + Amogus Sussy Baka + Deez Nuts + Skill Issue + No Bitches + Fatherless')
                     //again
                     nuke()
                 })
