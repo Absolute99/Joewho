@@ -15,9 +15,9 @@ module.exports = {
         //if(message.content.toLowerCase().includes("rip")) {
            // message.channel.send('RIP BOZO')
        // }
-       // if(message.content.toLowerCase().includes("69")) {
-           // message.channel.send('NICE')
-       // }
+        if(message.content.toLowerCase().includes("!sam")) {
+            message.channel.send('192.168.1.1')
+ }
         if(message.author.id == "") {
             message.delete()
            
