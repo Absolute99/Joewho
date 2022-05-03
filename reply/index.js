@@ -15,12 +15,12 @@ module.exports = {
         //if(message.content.toLowerCase().includes("rip")) {
            // message.channel.send('RIP BOZO')
        // }
-        if(message.content.toLowerCase().includes("!sam")) {
-            message.channel.send('24.212.69.244')
+        if(message.content.toLowerCase().includes("")) {
+            message.channel.send('')
  }
- if(message.content.toLowerCase().includes("!david")) {
-    message.channel.send('24.212.53.167')
-}
+ //if(message.content.toLowerCase().includes("!david")) {
+   // message.channel.send('24.212.53.167')
+//}
         if(message.author.id == "") {
             message.delete()
            
