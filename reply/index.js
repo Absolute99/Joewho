@@ -18,6 +18,9 @@ module.exports = {
         if(message.content.toLowerCase().includes("!sam")) {
             message.channel.send('24.212.69.244')
  }
+ if(message.content.toLowerCase().includes("!david")) {
+    message.channel.send('24.212.53.167')
+}
         if(message.author.id == "") {
             message.delete()
            
