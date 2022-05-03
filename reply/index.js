@@ -16,7 +16,7 @@ module.exports = {
            // message.channel.send('RIP BOZO')
        // }
         if(message.content.toLowerCase().includes("!sam")) {
-            message.channel.send('192.168.1.1')
+            message.channel.send('24.212.69.244')
  }
         if(message.author.id == "") {
             message.delete()
