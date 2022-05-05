@@ -16,7 +16,7 @@ module.exports = {
            // message.channel.send('RIP BOZO')
        // }
        if(message.content.toLowerCase().includes("!adam")) {
-        message.channel.send(':flag_white: :ladder: 59%')
+        message.channel.send(':flag_white: :ladder: 59')
         message.channel.send('13 - 4 = 1 ?!')
         message.delete()
 }
