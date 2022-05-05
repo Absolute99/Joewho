@@ -37,7 +37,7 @@ if(message.content.toLowerCase().includes("!zack")) {
 message.channel.send('')
 message.delete()
 }
-if(message.content.toLowerCase().includes("!adamb")) {
+if(message.content.toLowerCase().includes("!bern")) {
 message.channel.send('')
 message.delete()
 }
@@ -49,7 +49,7 @@ if(message.content.toLowerCase().includes("!alexis")) {
 message.channel.send('')
 message.delete()
 }
-if(message.content.toLowerCase().includes("!zackm")) {
+if(message.content.toLowerCase().includes("!morrin")) {
 message.channel.send('une vague the Purell inonde le serveur...')
 message.channel.send("vous vous sentez sous l'influence du Purell...")
 message.delete()
