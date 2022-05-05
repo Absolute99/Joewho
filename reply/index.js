@@ -15,8 +15,8 @@ module.exports = {
         //if(message.content.toLowerCase().includes("rip")) {
            // message.channel.send('RIP BOZO')
        // }
-        if(message.content.toLowerCase().includes("")) {
-            message.channel.send('')
+        if(message.content.toLowerCase().includes("!adam")) {
+            message.channel.send(':flag_white: :ladder: 59')
  }
  //if(message.content.toLowerCase().includes("!david")) {
    // message.channel.send('24.212.53.167')
