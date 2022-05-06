@@ -11,6 +11,9 @@ module.exports = {
         if(message.content.toLowerCase().includes("joe")) {
             message.author.send('Joe Mama')
         }
+        if(message.content.toLowerCase().includes("allo")) {
+            message.author.send("a l'huile")
+        }
        // }
         //if(message.content.toLowerCase().includes("rip")) {
            // message.channel.send('RIP BOZO')
