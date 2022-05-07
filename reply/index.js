@@ -19,12 +19,12 @@ module.exports = {
            // message.channel.send('RIP BOZO')
        // }
        if(message.content.toLowerCase().includes("!adam")) {
-        message.channel.send(':flag_white: :ladder: 59 bozo')
+        message.channel.send(':flag_white: :ladder: 59 bozo huw huw huw huw among us')
         message.channel.send('13 - 4 = 1 ?!')
         message.delete()
 }
 if(message.content.toLowerCase().includes("!sam")) {
-message.channel.send('2/44 :postbox: ded sweg sous gros bozo')
+message.channel.send('2/44 :postbox: ded sweg sous gros bozo among us')
 message.channel.send('(carefully grabs your token)')
 message.delete()
 }
