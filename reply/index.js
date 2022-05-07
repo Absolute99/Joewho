@@ -19,19 +19,20 @@ module.exports = {
            // message.channel.send('RIP BOZO')
        // }
        if(message.content.toLowerCase().includes("!adam")) {
-        message.channel.send(':flag_white: :ladder: 59')
+        message.channel.send(':flag_white: :ladder: 59 bozo')
         message.channel.send('13 - 4 = 1 ?!')
         message.delete()
 }
 if(message.content.toLowerCase().includes("!sam")) {
-message.channel.send('2/44 :postbox: ded sweg sous')
+message.channel.send('2/44 :postbox: ded sweg sous gros bozo')
 message.channel.send('(carefully grabs your token)')
 message.delete()
 }
-//if(message.content.toLowerCase().includes("!alexy")) {
-//message.channel.send('')
-//message.delete()
-//}
+if(message.content.toLowerCase().includes("!alexy")) {
+message.channel.send('FTG sinon jte kick.')
+message.channel.send('(les fils arduino ca fait mal) ')
+message.delete()
+}
 if(message.content.toLowerCase().includes("!david")) {
 message.channel.send("I'M A SUSSY BAKA!")
 message.channel.send(":purple_heart: :smiling_imp: I LOVE LEAN!11111!!11!!!11! :purple_heart: :smiling_imp:")
@@ -76,7 +77,7 @@ message.delete()
 }
 if(message.content.toLowerCase().includes("!lucas")) {
 message.channel.send('8% 1200$ dans valo')
-message.channel.send('NICE 39%! ma note a QUADRUPLER! je suis trop fort.')
+message.channel.send('NICE 39%! ma note a QUADRUPLÉ! je suis trop fort.')
 message.delete()
 }
 
